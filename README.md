@@ -5,7 +5,7 @@ and animation-driven character controllers. Currently a BCA student exploring
 both game development and machine learning.
 
 ## 🎮 What I'm Built
-- Third-person obstacle-course shooter (Unity, C#) — custom state machine,
+- Third-person obstacle-course shooter GAME (Unity, C#) — custom state machine,
   vault/climb mechanics, Cinemachine camera, Mixamo animation blending
 - Exploring AI/ML fundamentals through data-driven projects
 
