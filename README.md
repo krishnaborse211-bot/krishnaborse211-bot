@@ -19,7 +19,7 @@ within a time limit.
 👉 [Repo](https://github.com/krishnaborseGamedev/CubeBallShooter) · [Gameplay Video](https://youtu.be/1VIyJboSUVU) · [Playable Build](https://github.com/krishnaborseGamedev/CubeBallShooter/releases/download/v1.0.0/CubeBallShooter_Build.zip)
 
 ## 📫 Portfolio
-
+(https://github.com/krishnaborseGamedev/aboutkrishnaborse/blob/main/portfolio_01.html)
 
 ## 📫 Reach Me
 - Email: krishnaborse211@gmail.com
